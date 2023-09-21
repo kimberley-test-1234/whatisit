@@ -1,0 +1,6 @@
+config:
+  azure-native:location: WestUS
+  pulumi:template: static-website-azure-csharp
+  static-website-azure-csharp-374389:errorDocument: error.html
+  static-website-azure-csharp-374389:indexDocument: index.html
+  static-website-azure-csharp-374389:path: ./www
